@@ -1,4 +1,4 @@
-public class HelloJava {
+public class Hello {
     public static void main(String[] args) {
         System.out.println("Hello, bienvenue sur jenkins");
     }
